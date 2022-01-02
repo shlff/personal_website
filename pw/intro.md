@@ -13,16 +13,12 @@ Deeply influenced by my paternal grandfather earlier and then my supervisors, on
 Primary:
 - Computational Economics
 - Network Economics
-- Econometric Theory
-- Machine Learning
-- Mathematical Analysis
 - Structural Estimation
 
 Topics:
 - Heterogeneous-agent Models
 - Stochastic Distributional Dynamics, such as Firm or Industry Dynamics
 - Heavy-tail Phenomena and their Generating Mechanisms
-- Inequality of Income and Wealth
 
 
 ## Contact
