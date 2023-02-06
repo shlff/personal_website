@@ -9,4 +9,9 @@
   -  [Advanced Quantitative Economics with Python](https://python-advanced.quantecon.org/)
   -  [Continuous Time Markov Chains](https://quantecon.github.io/continuous_time_mcs/)
 - [Hardcopy Text](https://quantecon.org/quantecon-textbook/)
+  - [Economic Networks: Theory and Computation](https://networks.quantecon.org/)
 
+(wp)=
+## Working Papers
+
+(TBA...)
