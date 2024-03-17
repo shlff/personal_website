@@ -7,10 +7,10 @@ based at [the Australian National University](https://cbe.anu.edu.au/about/staff
 My chair supervisor is [John Stachurski](https://johnstachurski.net/), and 
 my supervision panel includes [Feodr Iskhakov](https://fedor.iskh.me/) and 
 [Timothy Kam](https://phantomachine.github.io/). Also I am a researcher at [QuantEcon](https://quantecon.org/), 
-collaborating closely with John Stachurski, [Tom Sargent](http://www.tomsargent.com/), 
-[Matthew Mckay](https://github.com/mmcky), [Aakash Gupta](https://github.com/AakashGfude), 
-[Oyama Daisuke](http://www.oyama.e.u-tokyo.ac.jp/), [Humphrey Yang](https://github.com/HumphreyYang), 
-[Smit Lunagariya](https://github.com/Smit-create) and many others on various exciting projects 
+collaborating closely with John Stachurski, [Tom Sargent](http://www.tomsargent.com/),
+[Matthew Mckay](https://github.com/mmcky), [Jingni Yang](https://sites.google.com/site/jingniyangorange/home), 
+[Aakash Gupta](https://github.com/AakashGfude), [Oyama Daisuke](http://www.oyama.e.u-tokyo.ac.jp/), 
+[Humphrey Yang](https://github.com/HumphreyYang), [Smit Lunagariya](https://github.com/Smit-create) and many others on various exciting projects 
 (see my [featured quantecon projects](qe)). Additionally, I am a table tennis player and coach, 
 [accredited by Table Tennis Australia](https://www.revolutionise.com.au/tta/reports/accreds/certificate/&id=125&member_id=1298136&level_id=307).
 
