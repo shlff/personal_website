@@ -2,23 +2,32 @@
 
 Let me briefly introduce myself: 
 
-I am an early-stage Economic PhD candidate and a university tutor (see [this page](teaching)), based at [the Australian National University](https://cbe.anu.edu.au/about/staff-directory/shu-hu). My chair supervisor is Professor [John Stachurski](https://johnstachurski.net/). 
+I am an Economics PhD student and a university tutor (see my [teaching](teaching)) 
+based at [the Australian National University](https://cbe.anu.edu.au/about/staff-directory/shu-hu). 
+My chair supervisor is [John Stachurski](https://johnstachurski.net/), and 
+my supervision panel includes [Feodr Iskhakov](https://fedor.iskh.me/) and 
+[Timothy Kam](https://phantomachine.github.io/). Also I am a researcher at [QuantEcon](https://quantecon.org/), 
+collaborating closely with John Stachurski, [Tom Sargent](http://www.tomsargent.com/), 
+[Matthew Mckay](https://github.com/mmcky), [Aakash Gupta](https://github.com/AakashGfude), 
+[Oyama Daisuke](http://www.oyama.e.u-tokyo.ac.jp/), [Humphrey Yang](https://github.com/HumphreyYang), 
+[Smit Lunagariya](https://github.com/Smit-create) and many others on various exciting projects 
+(see my [featured quantecon projects](qe)). Additionally, I am a table tennis player and coach, 
+[accredited by Table Tennis Australia](https://www.revolutionise.com.au/tta/reports/accreds/certificate/&id=125&member_id=1298136&level_id=307).
 
-Also I am a junior researcher at [QuantEcon](https://quantecon.org/), collaborating with Professor John Stachurski, Professor [Tom Sargent](http://www.tomsargent.com/), Dr. [Matthew Mckay](https://github.com/mmcky), Mr. [Aakash Gupta](https://github.com/AakashGfude), Professor [Oyama Daisuke](http://www.oyama.e.u-tokyo.ac.jp/),  and many others on various projects (see [this page](qeprojects)).
+Deeply influenced by my paternal grandfather earlier and then my supervisors, 
+on the one hand, I love mathematics, economics and computer science 
+(see my [research](research)). On the other hand, I enjoy writing, reading history, doing sports, cooking and 
+visiting nature, as well as [fine art](https://en.wikipedia.org/wiki/Fine_art) 
+(see my [miscellaneousness](misc)). 
 
-Deeply influenced by my paternal grandfather earlier and then my supervisors, on the one hand, in addition to economics, I love mathematics and computer science (see [this page](learning)). On the other hand, I enjoy writing, reading history, doing sports, cooking and visiting nature, as well as [fine art](https://en.wikipedia.org/wiki/Fine_art) (see [this page](miscellaneous)). 
+## Research interests
 
-## Interested Research Fields
-
-Primary:
-- Computational Economics
-- Network Economics
-- Structural Estimation
+Computational and network economics
 
 Topics:
-- Heterogeneous-agent Models
-- Stochastic Distributional Dynamics, such as Firm or Industry Dynamics
-- Heavy-tail Phenomena and their Generating Mechanisms
+- Heterogeneous-agent models
+- Heavy tails and their generating mechanisms
+- Inequality and distributional dynamics of wealth income and consumption
 
 
 ## Contact
