@@ -6,7 +6,7 @@ root: intro
 options:
   numbered: false
 chapters:
-- file: learning
 - file: research
+- file: qe
 - file: teaching
-- file: miscellaneous
+- file: misc

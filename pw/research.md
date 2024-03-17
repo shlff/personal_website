@@ -1,17 +1,11 @@
 # Research 
 
-(qeprojects)=
-## Featured QuantEcon Projects
-
-- Lectures
-  -  [Python Programming for Economics and Finance](https://python-programming.quantecon.org/)
-  -  [Quantitative Economics with Python](https://python.quantecon.org/)
-  -  [Advanced Quantitative Economics with Python](https://python-advanced.quantecon.org/)
-  -  [Continuous Time Markov Chains](https://quantecon.github.io/continuous_time_mcs/)
-- [Hardcopy Text](https://quantecon.org/quantecon-textbook/)
-  - [Economic Networks: Theory and Computation](https://networks.quantecon.org/)
-
-(wp)=
 ## Working Papers
 
-(TBA...)
+(Updating...)
+
+## Publications
+
+[QuantEcon.Py: A Community Based Python Library for Quantitative Economics](https://doi.org/10.21105/joss.05585)
+- with Quentin Batista, Chase Coleman, et al.
+- **Journal of Open Source Software**, DOI: 10.21105/joss.05585, 2023
